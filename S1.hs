@@ -1,3 +1,5 @@
+-- View an online demo here: https://repl.it/@ArchieMaclean/Scottish-SMC-2019-Round-2-S1
+
 getFinalAnswer :: Integer -> Integer -> Integer
 getFinalAnswer i a = 10*a+i
 
